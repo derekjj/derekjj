@@ -7,8 +7,8 @@ I am Derek Johnston, currently Lead Full Stack Developer at [Youville Haussmann 
 
 ## ⚡ Technologies
 [![Gitlab Badge](https://img.shields.io/badge/-DerekJJ-black?style=flat-square&logo=GitLab&logoColor=black&link=https://gitlab.com/derekjj/)](https://gitlab.com/derekjj/)
-[![Gitlab Badge](https://img.shields.io/badge/-DerekJJ-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/derekjj/)](https://github.com/derekjj/)
-[![Gitlab Badge](https://img.shields.io/badge/-DerekJJ-black?style=flat-square&logo=BitBucket&logoColor=white&link=https://bitbucket.org/derekjj/)](https://github.com/derekjj/)
+[![Github Badge](https://img.shields.io/badge/-DerekJJ-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/derekjj/)](https://github.com/derekjj/)
+[![Bitbucket Badge](https://img.shields.io/badge/-DerekJJ-black?style=flat-square&logo=BitBucket&logoColor=white&link=https://bitbucket.org/derekjj/)](https://bitbucket.org/derekjj/)
 
 >### Present
 >![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
