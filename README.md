@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Derek Johnston, currently Lead Full Stack Developer at [Youville Haussmann Park](https://www.workatyhp.com/). I am a tech enthusiast & junior dev advocate. I am always open to collaborating on projects and coaching. Find out more about me & feel free to connect with me here:
+I am Derek Johnston, currently Lead Full Stack Developer. I am a tech enthusiast & junior dev advocate. I am always open to collaborating on projects and coaching. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-DerekJJohnston-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekjjohnston/)](https://www.linkedin.com/in/derekjjohnston/)
 [![Gmail Badge](https://img.shields.io/badge/-Derek@DerekJohnston.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:derek@derekjohnston.ca)](mailto:derek@derekjohnston.ca)
